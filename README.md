@@ -11,7 +11,7 @@
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-000000?style=flat-square\&logo=archlinux\&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/Hyprland-000000?style=flat-square\&logo=hyprland\&logoColor=white)
 ![Waybar](https://img.shields.io/badge/Waybar-000000?style=flat-square\&logo=waybar\&logoColor=white)
-![Kitty](https://img.shields.io/badge/Kitty-000000?style=flat-square\&logo=kitty\&logoColor=white)
+<img src="./assets/badges/kitty.svg" alt="Kitty"/>
 
 <br>
 
@@ -158,9 +158,9 @@ This setup is built on top of a bunch of existing open-source projects.
 | **NetworkManager** | Networking           |
 | **BlueZ**          | Bluetooth            |
 | **MPRIS**          | Media integration    |
-| **Hyprlock**       | Lock screen          |
+| **Hyprlock**       | Lock screen           |
 | **Hypridle**       | Idle management      |
-| **Rofi**           | Application launcher |
+| **Rofi**            | Application launcher |
 
 Big thanks to all of the developers and contributors behind these projects and the rest of the Linux ecosystem.
 
